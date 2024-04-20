@@ -1,7 +1,7 @@
-# Cloud-Architecture-Design
-This repository includes the presentation and proposal document for cloud architecture design project. It is designed for Paper Root Studio.
+# Cloud Architecture Design Repository
+This repository comprises the presentation and proposal documents pertaining to the Cloud Architecture Design Project specifically crafted for Paper Root Studio.
 
-Two files within repository:
+Within this repository, you will find:
 
-Presentation - Cloud Architecture design.
-Proposal document for cloud architecture design.
+Presentation: Cloud Architecture Design
+Proposal Document for Cloud Architecture Design
