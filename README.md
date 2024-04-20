@@ -4,4 +4,4 @@ This repository comprises the presentation and proposal documents pertaining to 
 Within this repository, you will find:
 
 Presentation: Cloud Architecture Design
-Proposal Document for Cloud Architecture Design
+And Proposal Document for Cloud Architecture Design
